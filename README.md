@@ -1,13 +1,13 @@
-# Telegram Comment Audience Parser with Deskgram 2
+﻿# Telegram Comment Audience Parser with Deskgram 2
 
 Comment Audience Parser in Deskgram 2 helps you collect users from Telegram post discussions, not just from broad source lists. This module is useful when you want a warmer audience that already shows interest through comments and discussion activity.
 
-[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview)
+[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=en)
 ## Interactive Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollecting_from_comments)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollecting_from_comments&lang=en)
 
-Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollecting_from_comments)
+Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollecting_from_comments&lang=en)
 
 
 
@@ -117,3 +117,4 @@ Yes. This route is usually better when you care about visible engagement signals
 ### Can it be combined with other parsers?
 
 Yes. It works well alongside broad audience parsing and active chat user collection.
+
